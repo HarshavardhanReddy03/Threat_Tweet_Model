@@ -18,3 +18,5 @@ Epoch 17 - Time: 683.82s - Loss: 0.0119 - Validation Loss: 0.0100
 Epoch 18 - Time: 767.28s - Loss: 0.0112 - Validation Loss: 0.0111
 Epoch 19 - Time: 719.95s - Loss: 0.0107 - Validation Loss: 0.0097
 Epoch 20 - Time: 666.11s - Loss: 0.0105 - Validation Loss: 0.0095
+
+#Training-2

@@ -28,3 +28,15 @@ Epoch 27 - Time: 625.66s - Loss: 0.0051 - Validation Loss: 0.0041
 Epoch 28 - Time: 628.91s - Loss: 0.0051 - Validation Loss: 0.0038
 Epoch 29 - Time: 636.35s - Loss: 0.0046 - Validation Loss: 0.0037
 Epoch 30 - Time: 629.69s - Loss: 0.0046 - Validation Loss: 0.0034
+
+#Training -2
+Epoch 1 - Time: 515.93s - Loss: 0.0623 - Validation Loss: 0.0454
+Epoch 2 - Time: 548.99s - Loss: 0.0458 - Validation Loss: 0.0398
+Epoch 3 - Time: 563.57s - Loss: 0.0410 - Validation Loss: 0.0372
+Epoch 4 - Time: 563.77s - Loss: 0.0365 - Validation Loss: 0.0314
+Epoch 5 - Time: 487.61s - Loss: 0.0329 - Validation Loss: 0.0291
+Epoch 6 - Time: 488.11s - Loss: 0.0296 - Validation Loss: 0.0270
+Epoch 7 - Time: 478.29s - Loss: 0.0270 - Validation Loss: 0.0231
+Epoch 8 - Time: 470.63s - Loss: 0.0239 - Validation Loss: 0.0198
+Epoch 9 - Time: 486.70s - Loss: 0.0214 - Validation Loss: 0.0183
+Epoch 10 - Time: 582.33s - Loss: 0.0193 - Validation Loss: 0.0169

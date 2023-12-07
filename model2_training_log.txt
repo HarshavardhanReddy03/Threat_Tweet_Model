@@ -20,3 +20,13 @@ Epoch 19 - Time: 719.95s - Loss: 0.0107 - Validation Loss: 0.0097
 Epoch 20 - Time: 666.11s - Loss: 0.0105 - Validation Loss: 0.0095
 
 #Training-2
+Epoch 1 - Time: 722.87s - Loss: 0.0661 - Validation Loss: 0.0476
+Epoch 2 - Time: 617.49s - Loss: 0.0476 - Validation Loss: 0.0440
+Epoch 3 - Time: 568.11s - Loss: 0.0425 - Validation Loss: 0.0402
+Epoch 4 - Time: 692.39s - Loss: 0.0393 - Validation Loss: 0.0359
+Epoch 5 - Time: 832.18s - Loss: 0.0365 - Validation Loss: 0.0328
+Epoch 6 - Time: 847.31s - Loss: 0.0342 - Validation Loss: 0.0322
+Epoch 7 - Time: 843.88s - Loss: 0.0318 - Validation Loss: 0.0289
+Epoch 8 - Time: 854.92s - Loss: 0.0298 - Validation Loss: 0.0264
+Epoch 9 - Time: 726.22s - Loss: 0.0280 - Validation Loss: 0.0260
+Epoch 10 - Time: 745.43s - Loss: 0.0268 - Validation Loss: 0.0251
